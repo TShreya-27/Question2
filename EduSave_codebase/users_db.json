@@ -1,0 +1,1 @@
+{"admin": {"password": "adminpassword", "role": "Admin"}, "teacher1": {"password": "teacherpass", "role": "Teacher"}, "student1": {"password": "studentpass", "role": "Student"}, "Shr": {"password": "1", "role": "Student"}}
